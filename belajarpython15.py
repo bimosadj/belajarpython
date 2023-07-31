@@ -62,7 +62,7 @@ print(format_string)
 
 angka = 255
 format_binary = f"binary = {bin(angka)}"
-format_octal = f"octal = oct(angka)}"
+format_octal = f"octal = {oct(angka)}"
 format_hex = f"hex = {hex(angka)}"
 
 print(format_binary)
