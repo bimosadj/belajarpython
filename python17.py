@@ -1,3 +1,4 @@
+# di fie ini kita belajar yang namanya if dan else statmen
 # If dan else Statment
 
 # 1. if nya
